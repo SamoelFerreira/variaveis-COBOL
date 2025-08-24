@@ -1,0 +1,12 @@
+ CLÁUSULA PICTURE (PIC):
+
+É usada para descrição, definição de informações 
+sobre itens, tais como: tamanho, sinal, tipo numérico 
+alfanumérico ou alfabético. 
+
+ X – Indica campo Alfanumérico
+ A – Indica campo Alfabético
+ 9 – Indica campo Numérico
+ V – Indica Vírgula Decimal Implícita
+ S – Indica Sinal Algébrico
+ Z – Indica Edição de Campos Numéricos
